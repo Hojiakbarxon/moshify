@@ -682,6 +682,9 @@ a {
 }
 
 @media screen and (min-width: 768px) {
+  .nav{
+    border-bottom: 1px solid #222;
+  }
   .nav__toggler {
     display: none;
   }
@@ -691,6 +694,9 @@ a {
     font-size: 1.6rem;
     opacity: 1;
     max-height: 100vh;
+  }
+  .nav__item{
+    border: 0;
   }
 }
 
@@ -808,6 +814,7 @@ a {
 /* Footer */
 .footer {
   background-color: #232323;
+  position: relative;
 }
 
 .footer__section {
