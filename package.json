@@ -1,0 +1,25 @@
+{
+  "name": "moshified",
+  "version": "1.0.0",
+  "description": "",
+  "source": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hojiakbarxon/moshify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Hojiakbarxon/moshify/issues"
+  },
+  "homepage": "https://github.com/Hojiakbarxon/moshify#readme",
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
