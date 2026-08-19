@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="209" height="54" viewBox="0 0 209 54">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #2584ff;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 11px;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #ff3400;
+        mix-blend-mode: lighten;
+      }
+
+      .cls-3 {
+        font-size: 32.498px;
+        fill: #fff;
+        font-family: Inter;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <path id="H_left" data-name="H left" class="cls-1" d="M23,14 L23,40 M23,27 L42,27"/>
+  <path id="H_right" data-name="H right" class="cls-2" d="M57,14 L57,40 M38,27 L57,27"/>
+  <text id="Hojify" class="cls-3" transform="translate(71.466 35.437) scale(0.923)">Hojify</text>
+</svg>
